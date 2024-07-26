@@ -133,7 +133,7 @@ p. 78 원칙이 반드시 훌륭한 소프트웨어 제품으로 연결되는 �
 - **퀘스트**: 다이어그램을 이용해서 자신의 자화상을 그려보세요! 😎
   예시)
 
-  ![예시](https://github.com/user-attachments/assets/d5b42d45-a218-4c74-be9f-62c4f09dd160)
+  <image src="https://github.com/user-attachments/assets/d5b42d45-a218-4c74-be9f-62c4f09dd160" width="30%"/>
  
 - **다이어그램 툴**: https://excalidraw.com/
 - **수행 기준**: 저장소에 그림을 업로드 해주세요!(슬랙에 하셔도 무방) 눈, 코, 입이 보이도록 그려주세요!!
