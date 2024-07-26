@@ -156,6 +156,25 @@ Day 1
 
 ### J075 김현준 -> 두 번째 퀘스트 
 
+7/22
+
+<img width="589" alt="SCR-20240726-jyen" src="https://gist.github.com/user-attachments/assets/9a17e0be-e2a6-4bad-a630-9763d9aaced4">
+
+<img width="1010" alt="SCR-20240726-jxyp" src="https://gist.github.com/user-attachments/assets/4379018c-43c7-49d0-bc26-3c2e58f77d0a">
+
+7/23
+
+<img width="1016" alt="SCR-20240726-jxwg" src="https://gist.github.com/user-attachments/assets/f89aeae7-1dd1-463c-899c-8537d205f068">
+
+7/24
+
+<img width="1009" alt="SCR-20240726-jxve" src="https://gist.github.com/user-attachments/assets/e3268dce-a183-4264-b73b-d8983cd827d4">
+
+하루에 하나씩 올리려고 했는데, 목요일은 짝 프로그래밍하다가 시간이 너무 많이 흘러서 올리지 못했네요..
+그래도 슬랙에 글 아예 안적다가 이렇게 릴레이 미션으로 여러가지를 공유할 수 있는 기회가 있어서 너무 좋았습니다!!
+릴레이 미션이 끝나도 도움이 될 만한 자료를 공유할 수 있도록 노력해보겠습니다.
+
+
 ### J103 박무성 -> 다섯 번째 퀘스트
 
 ### J247 지석호 -> 첫 번째 퀘스트 
