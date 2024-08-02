@@ -12,5 +12,6 @@
 [미션 기록 바로가기](https://github.com/boostcampwm-2024/relay-note44/blob/main/S068.md)
 
 ## J108 박병주 -> 첫 번째 퀘스트
+[미션 기록 바로가기](https://github.com/boostcampwm-2024/relay-note44/blob/main/J108.md)
 
 ## J244 조윤희 -> 네 번째 퀘스트 
