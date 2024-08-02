@@ -5,7 +5,7 @@
 [미션 기록 바로가기](https://github.com/boostcampwm-2024/relay-note44/blob/main/K040.md)
 
 ## J113 박성준 -> 두 번째 퀘스트
-
+[미션 기록 바로가기](https://github.com/boostcampwm-2024/relay-note44/blob/main/J113.md)
 ## J034 김두종 -> 네 번째 퀘스트 
 [미션 기록 바로가기](https://github.com/boostcampwm-2024/relay-note44/blob/main/J034.md)
 
