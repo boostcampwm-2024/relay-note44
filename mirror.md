@@ -243,3 +243,7 @@ p. 78 원칙이 반드시 훌륭한 소프트웨어 제품으로 연결되는 �
 ### J247 지석호 -> 첫 번째 퀘스트
 
 [미션 기록 바로가기](J247.md)
+
+# 2주차 수행기록 2️⃣
+[바로가기](https://github.com/boostcampwm-2024/relay-note44/blob/main/week2.md)
+
